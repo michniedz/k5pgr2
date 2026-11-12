@@ -1,0 +1,12 @@
+.przelaczniki{
+    display: flex;
+    gap: 10px;
+}
+.kontener-zdjec{
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    border-radius: 5px;
+    margin: 5px;
+}

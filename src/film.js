@@ -1,0 +1,22 @@
+export default [
+    { id: 1, tytul: "Matrix", rok: 1999, kategoria: "Sci-Fi", ocena: 0 },
+    { id: 2, tytul: "Szklana pułapka", rok: 1988, kategoria: "Akcja", ocena: 0 },
+    { id: 3, tytul: "Forrest Gump", rok: 1994, kategoria: "Dramat", ocena: 0 },
+    { id: 4, tytul: "Kiler", rok: 1997, kategoria: "Komedia", ocena: 0 },
+    { id: 5, tytul: "Incepcja", rok: 2010, kategoria: "Sci-Fi", ocena: 0 },
+    { id: 6, tytul: "Chłopaki nie płaczą", rok: 2000, kategoria: "Komedia", ocena: 0 },
+    { id: 7, tytul: "Zielona mila", rok: 1999, kategoria: "Dramat", ocena: 0 },
+    { id: 8, tytul: "Terminator 2: Dzień sądu", rok: 1991, kategoria: "Akcja", ocena: 0 },
+    { id: 9, tytul: "Avatar", rok: 2009, kategoria: "Sci-Fi", ocena: 0 },
+    { id: 10, tytul: "Nietykalni", rok: 2011, kategoria: "Dramat", ocena: 0 },
+    { id: 11, tytul: "Dzień świstaka", rok: 1993, kategoria: "Komedia", ocena: 0 },
+    { id: 12, tytul: "Mroczny Rycerz", rok: 2008, kategoria: "Akcja", ocena: 0 },
+    { id: 13, tytul: "Interstellar", rok: 2014, kategoria: "Sci-Fi", ocena: 0 },
+    { id: 14, tytul: "Skazani na Shawshank", rok: 1994, kategoria: "Dramat", ocena: 0 },
+    { id: 15, tytul: "Seksmisja", rok: 1984, kategoria: "Komedia", ocena: 0 },
+    { id: 16, tytul: "Mad Max: Na drodze gniewu", rok: 2015, kategoria: "Akcja", ocena: 0 },
+    { id: 17, tytul: "Truman Show", rok: 1998, kategoria: "Dramat", ocena: 0 },
+    { id: 18, tytul: "Powrót do przyszłości", rok: 1985, kategoria: "Sci-Fi", ocena: 0 },
+    { id: 19, tytul: "Głupi i głupszy", rok: 1994, kategoria: "Komedia", ocena: 0 },
+    { id: 20, tytul: "Gladiator", rok: 2000, kategoria: "Akcja", ocena: 0 }
+];

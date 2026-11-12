@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/k5pgr2/sw.js', { scope: '/k5pgr2/' })})}
